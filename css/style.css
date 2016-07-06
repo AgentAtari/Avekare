@@ -579,7 +579,8 @@ hr.bold {
 .marginbot-20{margin-bottom:20px !important;}
 .marginbot-30{margin-bottom:30px !important;}
 .marginbot-40{margin-bottom:40px !important;}
-.marginbot-50{margin-bottom:50px !important;}
+.marginbot-50{margin-bottom:50px !important;
+              margin-top: -85px;}
 .marginbot-60{margin-bottom:60px !important;}
 .marginbot-70{margin-bottom:70px !important;}
 .marginbot-80{margin-bottom:80px !important;}
@@ -2056,3 +2057,8 @@ a.btn:focus{
 		padding:250px 0 0;
 	}
 }
+
+    .maincontent {
+    	margin-bottom: 50px;
+    	margin-top: -51px;
+    }
