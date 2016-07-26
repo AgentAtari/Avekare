@@ -2065,3 +2065,6 @@ a.btn:focus{
     	margin-top: -51px;
     }
 
+section#intro.intro {
+	height: 574px;
+}
