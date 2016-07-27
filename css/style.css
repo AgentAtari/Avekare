@@ -1034,6 +1034,8 @@ Elements
     margin-bottom: 3px;
 }
 
+
+
 .cbp-l-grid-team-position {
     /* @editable properties */
     font: italic 400 16px "Open Sans", sans-serif;
@@ -2062,3 +2064,7 @@ a.btn:focus{
     	margin-bottom: 50px;
     	margin-top: -51px;
     }
+
+section#intro.intro {
+	height: 574px;
+}
